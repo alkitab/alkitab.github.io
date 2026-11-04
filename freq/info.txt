@@ -1,1 +1,28 @@
-3-10 القرآن
+ freq 3-10 القرآن
+all
+
+    alkitab.github.io/freq/
+
+quran_arabic_freq.txt
+	
+quran_arabic_freq.xlsx
+	
+quran_eightgrams_freq.txt
+	
+quran_fivegrams_freq.txt
+	
+quran_fourgrams_freq.txt
+	
+quran_frequent_ayat.txt
+	
+quran_frequent_ayat_min3.txt
+	
+quran_ninegrams_freq.txt
+	
+quran_sevengrams_freq.txt
+	
+quran_sixgrams_freq.txt
+
+quran_tengrams_freq.txt
+	
+quran_trigrams_freq.txt
