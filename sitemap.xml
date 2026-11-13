@@ -8,6 +8,11 @@
        <priority>1.0000</priority>
   </url>
   <url>
+       <loc>https://alkitab.github.io/ar/it/shar7bash.html/loc>
+       <lastmod>2026-11-13T17:52:09+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
        <loc>https://alkitab.github.io/alquran/index.html</loc>
        <lastmod>2026-10-27T17:52:09+00:00</lastmod>
        <priority>0.8000</priority>
