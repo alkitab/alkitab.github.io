@@ -4,8 +4,13 @@
 
   <url>
        <loc>https://alkitab.github.io/</loc>
-       <lastmod>2026-11-13T18:02:09+00:00</lastmod>
+       <lastmod>2026-11-14T18:02:09+00:00</lastmod>
        <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://alkitab.github.io/ru/hvala.html</loc>
+       <lastmod>2026-11-14T18:02:09+00:00</lastmod>
+       <priority>0.9000</priority>
   </url>
   <url>
        <loc>https://alkitab.github.io/ar/it/shar7html.html</loc>
